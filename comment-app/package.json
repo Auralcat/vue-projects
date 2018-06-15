@@ -1,0 +1,14 @@
+{
+  "name": "comment-app",
+  "version": "1.0.0",
+  "description": "A simple comment app in Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Auralcat",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
